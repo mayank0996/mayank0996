@@ -1,6 +1,13 @@
 # Hi, I'm Mayank Kasana
 
-I'm a **systems-oriented robotics builder** in Delhi, India. I work across mechanical design, electronics, sensing, software and documentation, with an emphasis on making project boundaries and evidence visible.
+I'm a **robotics builder** in Delhi, India, currently on a gap year (2026-27). I work across mechanical design, electronics, sensing, software and documentation, with an emphasis on making project boundaries and evidence visible.
+
+## What I'm doing now
+
+- **JEE Main prep** for the January 2027 attempt, alongside undergraduate engineering admissions
+- **Building Atiras**, an early-stage robotics venture focused on the actuator and joint stack
+- **Robotics workshops with the Titliyan NGO**, bringing hands-on robotics to students
+- **Documenting past project work** into public, evidence-led repositories
 
 ## Featured engineering work
 
@@ -17,10 +24,6 @@ An emergency patient transport concept documented through a person-scale pod moc
 ## How I document projects
 
 I separate **demonstrated**, **modeled**, **proposed** and **not validated** work. Reproducibility files sit beside assumptions, test plans and evidence notes so reviewers can see what an artifact does and does not support.
-
-## Current direction
-
-I am preparing for undergraduate engineering admissions while extending my robotics work through small, measurable experiments. I am interested in requirements mapping, CAD, sensor integration, test planning, system integration and technical documentation.
 
 ## Links
 
